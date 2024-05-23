@@ -56,8 +56,7 @@ Use below configuration while creating EC2 virtual machine.
 |||
 |-|-|
 |Operating System|Ubuntu Linux |
-|Amazon Machine Image (AMI)| Ubuntu Server 22.04 LTS (HVM), SSD Volume Type
-|
+|Amazon Machine Image (AMI)| Ubuntu Server 22.04 LTS (HVM), SSD Volume Type|
 |Instance type|t2.large|
 |Network Settings|Allow HTTP & HTTPS|
 |Storage|32GB|
