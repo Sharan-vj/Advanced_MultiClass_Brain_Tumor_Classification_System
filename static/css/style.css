@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.title-logo {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.title{
+    margin-top: 3%;
+    text-align: center;
+}
+
+
+.title-des {
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    font-size: medium;
+}
