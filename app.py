@@ -4,8 +4,8 @@ import io
 import numpy as np
 import tensorflow as tf
 from PIL import Image
-from keras.models import load_model
-from keras.preprocessing import image
+from keras._tf_keras.keras.models import load_model
+from keras._tf_keras.keras.preprocessing import image
 from flask import Flask, render_template, jsonify, request
 
 
