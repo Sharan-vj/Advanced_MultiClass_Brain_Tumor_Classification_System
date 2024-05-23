@@ -10,8 +10,8 @@
 * Easy to use user interface.
 
 ### Screenshots
-<img width="800" height="280" align="center" src="/screenshots/homepage.png">
-<img width="800" height="280" align="center" src="/screenshots/classifypage.png">
+<img width="800" height="400" align="center" src="/screenshots/homepage.png">
+<img width="800" height="400" align="center" src="/screenshots/classifypage.png">
 
 ### How to run project Locally
 1. Download the source code of the project.
